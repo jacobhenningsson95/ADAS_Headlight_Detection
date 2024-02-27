@@ -140,7 +140,7 @@ Video prediction from the Test set, Here again some issues can be observed.
 
 Example of an output from the visualization tool
 
-![visualization_tool](./Samples/visualization_tool.png)
+![visualization_tool](./Samples/Visualization_tool.png)
 
 Single frame outputs
 
