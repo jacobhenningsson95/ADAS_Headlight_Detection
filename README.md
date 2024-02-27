@@ -153,4 +153,4 @@ Example on an unsuccessful clustering
 ## Conclusions
 
 This project achieves good results in detection but has issues with clustering because of the 1D embedding space.
-This was addressed in our work expansion: https://github.com/jacobhenningsson95/ADAS_Headlight_Detection
+This was addressed in our work expansion: https://github.com/jacobhenningsson95/ADAS_Headlight_Detection_Expansion
